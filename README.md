@@ -1,6 +1,6 @@
 # Simple CSS Waves
 
-Lightweight animation between header & content. Easy to customize and apply into any website!
+Lightweight animation between header & content. Easy to customize and apply into any website! Works with all devices and screen sizes.
 
 Check how it works here: https://codepen.io/goodkatz/pen/YbXqEV
 
